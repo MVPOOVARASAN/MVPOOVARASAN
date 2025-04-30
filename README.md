@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.POOVARASAN</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">Aspiring Web Developer</h3>
 
 - 🔭 I’m currently working on **soil analysis and crop recommendation using machine learning algorithm**
 
